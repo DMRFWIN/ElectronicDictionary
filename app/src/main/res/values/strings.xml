@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">电子词典</string>
+    <string name="Searchword">查询</string>
+    <string name="searchlable">查询结果 :</string>
+</resources>
